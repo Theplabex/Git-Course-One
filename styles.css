@@ -1,7 +1,13 @@
 body{
     text-align: center;
     color: #000;
-    background-image: radial-gradient(to top, #8ac 0%, #df69aa 100%);
+    background-color: #2471a3 ;
     background-repeat: no-repeat;
 }
  
+
+.parrafo1{
+    background-color: rgba(136, 170, 204, .4);
+    border-radius: 1rem;
+    color: rgba(255, 255, 255, 0.6);
+}
