@@ -1,7 +1,8 @@
 body{
     text-align: center;
     color: #000;
-    background-color: #2471a3 ;
+    /* background-color: #2471a3 ; */
+    background: linear-gradient(#f8a, #fade29);
     background-repeat: no-repeat;
 }
  
